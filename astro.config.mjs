@@ -6,7 +6,7 @@ import mdx from "@astrojs/mdx";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://bethropolis.github.io",
+  site: "https://tokenology-mu.vercel.app/docs/introduction",
   base: '/',
   integrations: [tailwind(), sitemap(), mdx()]
 });
