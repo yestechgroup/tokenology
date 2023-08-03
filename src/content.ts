@@ -1,29 +1,72 @@
 // content.ts
 export const sidebarStructure = [
   {
-    label: "Getting Started",
+    label: "Primer",
     children: [
       {
         label: "introduction",
         path: "./docs/introduction",
       },
       {
-        label: "installation",
-        path: "./docs/installation",
+        label: "Language",
+        path: "./docs/language",
       },
+      {
+        label: "Token Distribution",
+        path: "./docs/token_distribution",
+      },
+      {
+        label: "Parametric Insurance",
+        path: "./docs/parametric_insurance",
+      },
+      {
+        label: "Parametric Insurance and DAOs",
+        path: "./docs/parametric_insurance_and_dao",
+      },
+      {
+        label: "Key DAO Metrics",
+        path: "./docs/key_dao_metrics",
+      }
     ],
   },
   {
-    label: "other",
+    label: "Getting Started",
     children: [
+      
       {
-        label: "project structure",
-        path: "./docs/structure",
+        label: "Installing Metamask",
+        path: "./docs/install_metamask",
       },
       {
-        label: "showcase",
-        path: "./docs/showcase",
+        label: "Ancillary Technologies",
+        path: "./docs/ancillary_technologies",
       },
+      {
+        label: "DAO Platforms",
+        path: "./docs/dao_platforms",
+      }
+    ],
+  },
+  {
+    label: "Resources",
+    children: [
+     
+      {
+        label: "Proposal Template",
+        path: "./docs/proposal_template",
+      },
+      {
+        label: "Proposal Lifecycle",
+        path: "./docs/proposal_lifecycle",
+      },
+      {
+        label: "Ancillary Technologies",
+        path: "./docs/ancillary_technologies",
+      },
+      {
+        label: "DAO Platforms",
+        path: "./docs/dao_platforms",
+      }
     ],
   },
 ];
