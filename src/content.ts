@@ -37,14 +37,8 @@ export const sidebarStructure = [
         label: "Installing Metamask",
         path: "./docs/install_metamask",
       },
-      {
-        label: "Ancillary Technologies",
-        path: "./docs/ancillary_technologies",
-      },
-      {
-        label: "DAO Platforms",
-        path: "./docs/dao_platforms",
-      }
+
+  
     ],
   },
   {
