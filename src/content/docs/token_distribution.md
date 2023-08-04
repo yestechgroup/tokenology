@@ -22,10 +22,10 @@ The common token distribution methods are:
 ## Can we do better?
 
 ## Can we do better?
-Methods that might be suitable for Ngāti Porou token distribution:
+Methods that might be suitable for the iwi token distribution:
 
 ## Engagement Rewards
-Tokens could be distributed to members actively participating in cultural preservation efforts, traditional knowledge sharing, and contributions to arts, language, and heritage of Ngāti Porou
+Tokens could be distributed to members actively participating in cultural preservation efforts, traditional knowledge sharing, and contributions to arts, language, and heritage of the iwi
 
 ## Marae-Based Distribution
 Marae as distribution centres. Tokens could be distributed during marae-based and community events, eg. Pā Wars, reinforcing whakapapa connection and participation.
