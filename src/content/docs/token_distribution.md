@@ -21,37 +21,27 @@ The common token distribution methods are:
 
 ## Can we do better?
 
-Novel methods suitable for an iwi to distribute tokens:
+## Can we do better?
+Methods that might be suitable for Ngāti Porou token distribution:
 
-### Cultural Engagement Rewards
+## Engagement Rewards
+Tokens could be distributed to members actively participating in cultural preservation efforts, traditional knowledge sharing, and contributions to arts, language, and heritage of Ngāti Porou
 
-Tokens could be distributed to members who actively participate in cultural preservation efforts, traditional knowledge sharing, and contributions to Maori arts, language, and heritage.
+## Marae-Based Distribution
+Marae as distribution centres. Tokens could be distributed during marae-based and community events, eg. Pā Wars, reinforcing whakapapa connection and participation.
 
-### Marae-Based Distribution
+## Knowledge Sharing Contributions
+Tokens could be rewarded to members who share educational content related to Ngati Poroutanga, Haputanga, te reo, waiata, purakau, tikanga, traditions and history on DAO-sponsored platforms or websites.
 
-Utilizing marae (community meeting grounds) as distribution centers, tokens could be distributed during significant cultural events, reinforcing tribal unity and participation.
+## Pakeke Allocation
+A portion of tokens could be reserved for pakeke, in recognition of their wisdom and contributions to the community.
 
+## Kaitieki Rewards
+Tokens could be allocated to members involved in sustainable practices, environmental protection, and land conservation efforts in alignment with local kawa and tikanga.
 
-### Knowledge Sharing Contributions
+## Language Revitalization Incentives
+Members who actively contribute to te reo ake o Ngati Porou, maintain and promote te reo o nga hapu and increase the proficiency and use of te reo could be rewarded with tokens.
 
-Tokens could be rewarded to members who share educational content related to Maori culture, history, and traditions on DAO-sponsored platforms or websites.
+## Cultural Ambassador Program
+Introduce a program where members who act as cultural ambassadors, building an understanding of Ngati Poroutanga in external communities, receive tokens to recognise their efforts.
 
-### Elders' Allocation
-
-A portion of tokens could be reserved for elder members of the tribe, recognizing their wisdom and contributions to the community.
-
-### Kaitiaki / Resource Stewardship Rewards
-
-Tokens could be allocated to members involved in sustainable practices, environmental protection, and land conservation efforts in alignment with Maori values of kaitiakitanga (guardianship).
-
-### Language Revitalization Incentives
-
-Members who actively contribute to the preservation and revitalization of the Maori language could be rewarded with tokens.
-
-### Cultural Ambassador Program
-
-Introduce a program where members who act as cultural ambassadors, promoting Maori culture and values to external communities, receive tokens as a recognition of their efforts.
-
---- 
-
-When implementing token distribution methods, it is crucial to ensure cultural sensitivity, transparency, and community engagement. Token allocation should align with the iwi values, promote community involvement, and foster a sense of ownership and responsibility among members. The distribution process should involve extensive consultation with tribal leaders, elders, and the broader community to ensure inclusivity and appropriateness.
